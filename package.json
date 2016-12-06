@@ -1,10 +1,9 @@
 {
-  "name": "enoa-utils",
-  "version": "0.0.2",
+  "name": "pkg",
+  "version": "0.0.0",
   "description": "An npm package that holds a spot for future use.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "publishall": "git add . & git commit -m \"package published\" & npm version patch & npm publish"
   },
   "repository": {
