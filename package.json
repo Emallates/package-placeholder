@@ -1,0 +1,23 @@
+{
+  "name": "enoa-utils",
+  "version": "0.0.1",
+  "description": "An npm package that holds a spot for future use.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "publishall": "git add . & git commit -m \"package published\" & npm version patch & npm publish"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Emallates/package-placeholder.git"
+  },
+  "keywords": [
+    "none"
+  ],
+  "author": "emallates (support@emallates.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Emallates/package-placeholder/issues"
+  },
+  "homepage": "https://github.com/Emallates/package-placeholder#readme"
+}
