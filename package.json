@@ -1,6 +1,6 @@
 {
   "name": "enoa-utils",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "An npm package that holds a spot for future use.",
   "main": "index.js",
   "scripts": {
