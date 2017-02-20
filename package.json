@@ -1,5 +1,5 @@
 {
-  "name": "pkg",
+  "name": "cryptographer",
   "version": "0.0.0",
   "description": "An npm package that holds a spot for future use.",
   "main": "index.js",
